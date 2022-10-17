@@ -1,2 +1,1 @@
-vmess://ws+tls:6fea1649-425b-4092-bf53-29792152c925-0@us-lb.sshkit.org:443/?path=/sshkit/whereareyougoing/634cd6c1d2e3f/&allowInsecure=true#us-lb.sshkit.org
-vmess://ws+tls:6fea1649-425b-4092-bf53-29792152c925-0@us-lb.sshkit.org:443/?path=/sshkit/thisisgoodidera/634cd63bdbebb/&allowInsecure=true#us-lb.sshkit.org
+vless://83fb99d7-592f-44ab-93e3-84fe84d2e928@openhomes3.ccsura.ml:443?type=ws&security=tls&path=%2Fjy2oQ8WB2f&host=openhomes3.ccsura.ml&alpn=#vps-%E5%9F%9F%E5%90%8D
